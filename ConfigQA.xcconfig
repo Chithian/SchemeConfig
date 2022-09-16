@@ -1,0 +1,14 @@
+//
+//  ConfigQA.xcconfig
+//  Scheme Config
+//
+//  Created by Samony Chithian on 8/9/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+APPLICATION_NAME = QA2
+
+CT_ACCENT_COLOR = QAaccentColor
+
+
